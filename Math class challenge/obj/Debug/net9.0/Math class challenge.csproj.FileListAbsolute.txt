@@ -1,0 +1,14 @@
+D:\UU\c# msft\Math class challenge\bin\Debug\net9.0\Math class challenge.exe
+D:\UU\c# msft\Math class challenge\bin\Debug\net9.0\Math class challenge.deps.json
+D:\UU\c# msft\Math class challenge\bin\Debug\net9.0\Math class challenge.runtimeconfig.json
+D:\UU\c# msft\Math class challenge\bin\Debug\net9.0\Math class challenge.dll
+D:\UU\c# msft\Math class challenge\bin\Debug\net9.0\Math class challenge.pdb
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\Math class challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\Math class challenge.AssemblyInfoInputs.cache
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\Math class challenge.AssemblyInfo.cs
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\Math class challenge.csproj.CoreCompileInputs.cache
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\Math class challenge.dll
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\refint\Math class challenge.dll
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\Math class challenge.pdb
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\Math class challenge.genruntimeconfig.cache
+D:\UU\c# msft\Math class challenge\obj\Debug\net9.0\ref\Math class challenge.dll
