@@ -1,0 +1,15 @@
+D:\UU\c# msft\8-fraudulent-order\bin\Debug\net9.0\8-fraudulent-order.exe
+D:\UU\c# msft\8-fraudulent-order\bin\Debug\net9.0\8-fraudulent-order.deps.json
+D:\UU\c# msft\8-fraudulent-order\bin\Debug\net9.0\8-fraudulent-order.runtimeconfig.json
+D:\UU\c# msft\8-fraudulent-order\bin\Debug\net9.0\8-fraudulent-order.dll
+D:\UU\c# msft\8-fraudulent-order\bin\Debug\net9.0\8-fraudulent-order.pdb
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.AssemblyInfoInputs.cache
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.AssemblyInfo.cs
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.csproj.CoreCompileInputs.cache
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.sourcelink.json
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.dll
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\refint\8-fraudulent-order.dll
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.pdb
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\8-fraudulent-order.genruntimeconfig.cache
+D:\UU\c# msft\8-fraudulent-order\obj\Debug\net9.0\ref\8-fraudulent-order.dll
