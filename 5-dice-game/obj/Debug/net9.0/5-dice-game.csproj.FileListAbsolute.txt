@@ -1,0 +1,15 @@
+D:\UU\c# msft\5-dice-game\bin\Debug\net9.0\5-dice-game.exe
+D:\UU\c# msft\5-dice-game\bin\Debug\net9.0\5-dice-game.deps.json
+D:\UU\c# msft\5-dice-game\bin\Debug\net9.0\5-dice-game.runtimeconfig.json
+D:\UU\c# msft\5-dice-game\bin\Debug\net9.0\5-dice-game.dll
+D:\UU\c# msft\5-dice-game\bin\Debug\net9.0\5-dice-game.pdb
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.AssemblyInfoInputs.cache
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.AssemblyInfo.cs
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.csproj.CoreCompileInputs.cache
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.sourcelink.json
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.dll
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\refint\5-dice-game.dll
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.pdb
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\5-dice-game.genruntimeconfig.cache
+D:\UU\c# msft\5-dice-game\obj\Debug\net9.0\ref\5-dice-game.dll
