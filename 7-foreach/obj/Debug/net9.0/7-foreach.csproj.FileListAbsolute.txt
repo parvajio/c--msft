@@ -1,0 +1,15 @@
+D:\UU\c# msft\7-foreach\bin\Debug\net9.0\7-foreach.exe
+D:\UU\c# msft\7-foreach\bin\Debug\net9.0\7-foreach.deps.json
+D:\UU\c# msft\7-foreach\bin\Debug\net9.0\7-foreach.runtimeconfig.json
+D:\UU\c# msft\7-foreach\bin\Debug\net9.0\7-foreach.dll
+D:\UU\c# msft\7-foreach\bin\Debug\net9.0\7-foreach.pdb
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.AssemblyInfoInputs.cache
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.AssemblyInfo.cs
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.csproj.CoreCompileInputs.cache
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.sourcelink.json
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.dll
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\refint\7-foreach.dll
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.pdb
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\7-foreach.genruntimeconfig.cache
+D:\UU\c# msft\7-foreach\obj\Debug\net9.0\ref\7-foreach.dll
