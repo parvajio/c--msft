@@ -1,0 +1,15 @@
+D:\UU\c# msft\6-array-basic\bin\Debug\net9.0\6-array-basic.exe
+D:\UU\c# msft\6-array-basic\bin\Debug\net9.0\6-array-basic.deps.json
+D:\UU\c# msft\6-array-basic\bin\Debug\net9.0\6-array-basic.runtimeconfig.json
+D:\UU\c# msft\6-array-basic\bin\Debug\net9.0\6-array-basic.dll
+D:\UU\c# msft\6-array-basic\bin\Debug\net9.0\6-array-basic.pdb
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.AssemblyInfoInputs.cache
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.AssemblyInfo.cs
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.csproj.CoreCompileInputs.cache
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.sourcelink.json
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.dll
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\refint\6-array-basic.dll
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.pdb
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\6-array-basic.genruntimeconfig.cache
+D:\UU\c# msft\6-array-basic\obj\Debug\net9.0\ref\6-array-basic.dll
